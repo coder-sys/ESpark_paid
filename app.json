@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "E spark",
+    "slug": "E spark",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "E spark"
+}
